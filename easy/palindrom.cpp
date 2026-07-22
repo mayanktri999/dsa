@@ -1,5 +1,6 @@
 #include <string>
 using namespace std;
+#include <vector>
 
 class Solution {
 public:
